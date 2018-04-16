@@ -3,7 +3,7 @@ server: 
 
 management:  
   security:    
-  enabled: false
+    enabled: false
 
 promotion: action
 
