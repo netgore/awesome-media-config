@@ -9,4 +9,4 @@ spring:
     console:
     enabled: true
 
-name:netgore-default
+name:netgore-default-hi
