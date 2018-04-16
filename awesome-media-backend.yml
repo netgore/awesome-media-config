@@ -1,9 +1,9 @@
-server:  
+server:
   port: 8090
 
-management:  
-  security:    
-    enabled: false
+management:
+  security:
+    enabled: false    
 
 promotion: action
 
