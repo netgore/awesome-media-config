@@ -1,8 +1,12 @@
 server:  
   port: 8090
-  
+
 management:  
   security:    
   enabled: false
-  
+
 promotion: action
+
+spring:
+  application:
+    name: awesome-media-backend
