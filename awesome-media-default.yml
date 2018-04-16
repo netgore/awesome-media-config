@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:mediadb;
+    username: sa
+    password: null
+    initialize: true
+    platform: h2  
+  h2:
+    console:
+    enabled: true
